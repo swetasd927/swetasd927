@@ -1,6 +1,6 @@
 # Hi, I'm Sweta Dahal 👋
 
-I'm a final year CSIT student, aspiring Full-Stack Developer, and parttime content creator on Youtube. I enjoy building projects, learning new technologies, and improving my coding skills every day.  
+Final year CSIT student, aspiring Full-Stack Developer, and parttime content creator on Youtube. I enjoy building projects, learning new technologies, and improving my coding skills every day.  
 
 **Working on:** Full-stack MERN projects and scalable backend solutions.  
 
