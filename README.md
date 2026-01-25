@@ -4,7 +4,10 @@ Full-Stack Developer, a final year B.Sc.CSIT and parttime content creator on You
 
 **Working on:** Full-stack MERN projects and scalable backend solutions.  
 
-**Tools I use:** Node.js, Express, MongoDB, React, Javascript, Git, GitHub, Vercel, Render 
+**Tech Stack:** Node.js, Express, MongoDB, React,Typescript, Javascript,
+
+**Tools I use:**  Git, GitHub, Vercel, Render, Wix CLI, Wix, Wix studio 
 
 **Feel free to reach me:**  
 💼 [LinkedIn](https://www.linkedin.com/in/sweta-dahal)
+Youtube: [https://youtube.com/@sweta_dahal?si=RjlC4-Pafso5wVlF]
