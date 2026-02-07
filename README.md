@@ -4,7 +4,7 @@ Full-Stack Developer, a final year B.Sc.CSIT and parttime content creator on You
 
 **Working on:** Full-stack MERN projects and scalable backend solutions.  
 
-**Tech Stack:** Node.js, Express, MongoDB, React,Typescript, Javascript,
+**Tech Stack:** Node.js, Express, MongoDB, React,Typescript, Javascript,Tailwind CSS
 
 **Tools I use:**  Git, GitHub, Vercel, Render, Wix CLI, Wix, Wix studio 
 
