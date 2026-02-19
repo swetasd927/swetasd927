@@ -1,12 +1,15 @@
-# Hi, I'm Sweta Dahal 👋
+## Hi, I'm Sweta Dahal 👋
 
-Full-Stack Developer, a final year B.Sc.CSIT and parttime content creator on Youtube. I enjoy building projects, learning new technologies, and improving my coding skills every day.  
+Final-year B.Sc. CSIT student & Full-Stack (MERN) Developer.
+I build scalable web apps and continuously improve my coding skills.
 
-**Working on:** Full-stack MERN projects and scalable backend solutions.  
+**Stack:** MongoDB, Express, React, Node.js, TypeScript, JavaScript, Tailwind
+**Tools:** Git, GitHub, Vercel, Render
+**Languages:** C, C++, Java, Phython
+**Core Concepts:** OOP, DSA, OS, CN, Database(SQL), REST API
 
-**Tech Stack:** Node.js, Express, MongoDB, React,Typescript, Javascript,Tailwind CSS
+Connect with me:
 
-**Tools I use:**  Git, GitHub, Vercel, Render
-**Feel free to reach me:**  
-💼 [LinkedIn](https://www.linkedin.com/in/sweta-dahal)
-Youtube: [https://youtube.com/@sweta_dahal?si=RjlC4-Pafso5wVlF]
+🔗 LinkedIn: [https://www.linkedin.com/in/sweta-dahal](https://www.linkedin.com/in/sweta-dahal)
+📺 YouTube: [https://youtube.com/@sweta_dahal](https://youtube.com/@sweta_dahal)
+📸 Instagram: [https://www.instagram.com/swetadahal24/](https://www.instagram.com/swetadahal24/)
