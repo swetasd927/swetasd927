@@ -1,6 +1,6 @@
 ## Hi, I'm Sweta Dahal 👋
 
-Final-year B.Sc. CSIT student & Full-Stack (MERN) Developer.
+Full-Stack (MERN) Developer & a Final-year B.Sc. CSIT student.
 
 I build scalable web apps and continuously improve my coding skills.
 
