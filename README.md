@@ -8,7 +8,7 @@ I build scalable web apps and continuously improve my coding skills.
 
 **Tools:** Git, GitHub, Vercel, Render
 
-**Languages:** C, C++, Java, Phython
+**Languages:** C, C++, Java, Python
 
 **Core Concepts:** OOP, DSA, OS, CN, Database(SQL), REST API
 
