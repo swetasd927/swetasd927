@@ -1,21 +1,31 @@
-## Hi, I'm Sweta Dahal 👋
+# Hi, I'm Full-Stack (MERN) Developer and final-year B.Sc. CSIT student
+---
 
-Full-Stack (MERN) Developer & a Final-year B.Sc. CSIT student.
+##Tech Stack
 
-I build scalable web apps and continuously improve my coding skills.
+**Frontend:** React, JavaScript, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, PostgreSQL, PgVector  
+**AI & LLMs:** Google Gemini API, OpenAI API, LangChain, Vector Databases  
 
-**Stack:** MongoDB, PostgreSQL,PgVector, Express, React, Node.js, TypeScript, JavaScript, Tailwind
+---
 
-**Tools:** Git, GitHub, Vercel, Render
-**Models & Frameworks:** Google Gemini API, GPT API, Langchain, VectorDB
+## Tools & Platforms
 
-**Core Concepts:** OOP, DSA, OS, CN, Database(SQL), REST API
+Git, GitHub, Vercel, Render
 
-Connect with me:
+---
 
-🔗 LinkedIn: [https://www.linkedin.com/in/sweta-dahal](https://www.linkedin.com/in/sweta-dahal)
+## Core CS Concepts
 
-📺 YouTube: [https://youtube.com/@sweta_dahal](https://youtube.com/@sweta_dahal)
+OOP, Data Structures & Algorithms, Operating Systems, Computer Networks, Databases (SQL), REST APIs
+200+ Leetcode DSA problem solved
 
-📸 Instagram: [https://www.instagram.com/swetadahal24/](https://www.instagram.com/swetadahal24/)
+---
 
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sweta-dahal-04656927a/  
+- YouTube: https://youtube.com/@sweta_dahal  
+- Instagram: https://www.instagram.com/swetadahal24/
+- Leetcode:https://leetcode.com/u/dahalsweta5/
