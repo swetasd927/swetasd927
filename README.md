@@ -4,11 +4,10 @@ Full-Stack (MERN) Developer & a Final-year B.Sc. CSIT student.
 
 I build scalable web apps and continuously improve my coding skills.
 
-**Stack:** MongoDB, Express, React, Node.js, TypeScript, JavaScript, Tailwind
+**Stack:** MongoDB, PostgreSQL,PgVector, Express, React, Node.js, TypeScript, JavaScript, Tailwind
 
 **Tools:** Git, GitHub, Vercel, Render
-
-**Languages:** C, C++, Java, Python, ASP .NET, Javascript
+**Models & Frameworks:** Google Gemini API, GPT API, Langchain, VectorDB
 
 **Core Concepts:** OOP, DSA, OS, CN, Database(SQL), REST API
 
