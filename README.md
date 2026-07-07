@@ -1,23 +1,23 @@
 # Full-Stack Developer
 
 View my work:
-MatchyAI: 
-SaaS Invoice:
-BOHO Ecommerce: 
+MatchyAI:  (add links)
+SaaS Invoice: (add links)
+BOHO Ecommerce:  (add links)
 
 ## Tech Stack
 
 **Frontend**  
-React, JavaScript, TypeScript, Tailwind CSS
+React, JavaScript, TypeScript, NextJS, Tailwind CSS
 
 **Backend**  
-Node.js, Express.js
+Node.js, Express.js, RestAPI
 
 **Databases**  
-MongoDB, PostgreSQL, PgVector
+MongoDB, PostgreSQL
 
 **AI & LLMs**  
-Google Gemini API, OpenAI API, LangChain, Vector Databases
+Google Gemini API, OpenAI API, LangChain
 
 **Tools & Platforms**  
 Git, GitHub, Vercel, Render
