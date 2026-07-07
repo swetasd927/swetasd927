@@ -8,7 +8,7 @@ BOHO Ecommerce:  (add links)
 ## Tech Stack
 
 **Frontend**  
-React, JavaScript, TypeScript, NextJS, Tailwind CSS
+TypeScript, ReactJS, NextJS, Tailwind CSS
 
 **Backend**  
 Node.js, Express.js, RestAPI
