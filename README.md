@@ -1,9 +1,5 @@
 # Full-Stack Developer
 
-View my work:
-MatchyAI:  (add links
-SaaS Invoice: (a
-
 ## Tech Stack
 
 **Frontend**  
