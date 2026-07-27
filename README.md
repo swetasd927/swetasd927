@@ -12,7 +12,7 @@ Node.js, Express.js, RestAPI
 MongoDB, PostgreSQL
 
 **AI & LLMs**  
-Google Gemini API, OpenAI API, LangChain, Embeddings
+Google Gemini API, OpenAI API, LangChain, Embeddings, RAG
 
 **Tools & Platforms**  
 Git, GitHub, Vercel, Render
