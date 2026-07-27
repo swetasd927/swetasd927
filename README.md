@@ -22,7 +22,8 @@ Git, GitHub, Vercel, Render
 Solved 200+ LeetCode problems
 
 View my work
-MatchyAI: AI powered Job recommendation platform: https://matchyai.vercel.app/
+MatchyAI:AI powered Job recommendation platform
+Live link: https://matchyai.vercel.app/
 
 
 ## Connect
