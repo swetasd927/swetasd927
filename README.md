@@ -3,7 +3,7 @@
 ## Tech Stack
 
 **Frontend**  
-TypeScript, ReactJS, NextJS, Tailwind CSS
+TypeScript, ReactJS, NextJS, Tailwind
 
 **Backend**  
 Node.js, Express.js, RestAPI
