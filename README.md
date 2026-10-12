@@ -6,10 +6,10 @@
 TypeScript, ReactJS, NextJS, Tailwind
 
 **Backend**  
-Node.js, Express.js, RestAPI
+Node.js, Express.js, RestAPI, Python, FastAPI
 
 **Databases**  
-MongoDB, PostgreSQL
+MongoDB, PostgreSQL, SQL
 
 **AI & LLMs**  
 Google Gemini API, OpenAI API, LangChain, Embeddings, RAG
@@ -19,7 +19,7 @@ Git, GitHub, Vercel, Render
 
 ## Achievements
 
-Solved 200+ LeetCode problems
+Solved 220+ LeetCode problems
 
 View my work
 MatchyAI:AI powered Job recommendation platform
